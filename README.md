@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Geethesh Karthikeyan**, a B.Tech CSE (AI) student at **Amrita Vishwa Vidyapeetham**, passionate about AI, robotics, and building end-to-end projects that connect theory with real-world impact.
+I'm **Geethesh Karthikeyan**, a B.Tech CSE (AI) student at **Amrita Vishwa Vidyapeetham**, passionate about AI, and building end-to-end projects that connect theory with real-world impact.
 
 <!-- Optional banner image (add your own image link below) -->
 <!--
