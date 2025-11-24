@@ -1,13 +1,6 @@
 ## Hi there 👋
 
-I'm **Geethesh Karthikeyan**, a B.Tech CSE (AI) student at **Amrita Vishwa Vidyapeetham**, passionate about AI, and building end-to-end projects that connect theory with real-world impact.
-
-<!-- Optional banner image (add your own image link below) -->
-<!--
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Geethesh's Banner" />
-</p>
--->
+I'm **Geethesh Karthikeyan**, a B.Tech CSE (AI) student at **Amrita Vishwa Vidyapeetham**, passionate about AI, robotics, and building end-to-end projects that connect theory with real-world impact.
 
 <h2 align="center">💚 About Me :</h2>
 
@@ -35,15 +28,13 @@ I love converting ideas into working prototypes 😄
 
 ---
 
-## 🌐 Socials:
-
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b.geethesh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geethesh-karthikeyan-825325284/)
 
 ---
 
-# 💻 Tech Stack:
-
+# 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -69,33 +60,73 @@ I love converting ideas into working prototypes 😄
 
 ---
 
-# 📊 GitHub Stats:
+## ⚡ Stats ⚡
 
-<!-- Two cards in one line -->
+<!-- Big profile summary card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geetheshkarthi&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=geetheshkarthi&theme=dark&hide_border=false" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geetheshkarthi&theme=tokyonight" />
 </p>
 
-<!-- Top languages on its own line -->
+<!-- Two cards in one line (like top row in your screenshot) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetheshkarthi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geetheshkarthi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geetheshkarthi&theme=tokyonight&utcOffset=5.5" />
 </p>
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=geetheshkarthi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=geetheshkarthi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Most used languages block on its own line -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geetheshkarthi&theme=tokyonight" />
+</p>
 
 ---
 
+## 🧑‍💻 Repositories 🧑‍💻
+
+<!-- Row 1 -->
+<p align="center">
+  <a href="https://github.com/geetheshkarthi/REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geetheshkarthi&repo=REPO_NAME_1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/geetheshkarthi/REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geetheshkarthi&repo=REPO_NAME_2&theme=tokyonight" />
+  </a>
+</p>
+
+<!-- Row 2 -->
+<p align="center">
+  <a href="https://github.com/geetheshkarthi/REPO_NAME_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geetheshkarthi&repo=REPO_NAME_3&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/geetheshkarthi/REPO_NAME_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geetheshkarthi&repo=REPO_NAME_4&theme=tokyonight" />
+  </a>
+</p>
+
+<!-- Row 3 -->
+<p align="center">
+  <a href="https://github.com/geetheshkarthi/REPO_NAME_5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geetheshkarthi&repo=REPO_NAME_5&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/geetheshkarthi/REPO_NAME_6">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=geetheshkarthi&repo=REPO_NAME_6&theme=tokyonight" />
+  </a>
+</p>
+
+> 🔁 **Replace** `REPO_NAME_1` … `REPO_NAME_6` with your actual repository names  
+> (for example: `medical-assist-robotic-arm`, `ai-pathway-analysis`, etc.)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=geetheshkarthi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=geetheshkarthi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 [![](https://visitcount.itsvg.in/api?id=geetheshkarthi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly customized by Geethesh -->
