@@ -1,28 +1,27 @@
-## Hi there 👋
+## Hi there 
 
 I'm **Geethesh Karthikeyan**, a B.Tech CSE (AI) student at **Amrita Vishwa Vidyapeetham**, passionate about AI and building end-to-end projects that connect theory with real-world impact.
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
-<h2 align="center">💚 About Me :</h2>
+<h2 align="center">💚 ABOUT ME</h2>
 
 <div style="border: 2px solid #7dff9f; border-radius: 16px; padding: 20px;">
 
 🔭 **I’m currently working on**  
-AI-based robotics, computer vision, deep learning, and intelligent automation systems.
+AI Models, computer vision, deep learning, and intelligent automation systems,Sofware Engineering.
 
 🧑‍🤝‍🧑 **I’m looking to collaborate on**  
-AI + IoT projects, ML research, and open-source tools.
+AI projects, ML research, and open-source tools.
 
-🤝 **I’m looking for help with**  
-Optimizing neural network performance and GPU-efficient training.
-
+🤝 **I’m looking for help with an internship**
 🌱 **I’m currently learning**  
-Robotics kinematics, reinforcement learning, DSA, and system design.
+Full Stack Development, DSA, and system design.
 
 💬 **Ask me about**  
-Machine Learning, Computer Vision, Python, Networking, and Robotics.
+Machine Learning, Deep lEarning,Computer Vision, Python, DBMS.
 
 ⚡ **Fun fact**  
-I love converting ideas into working prototypes 😄
+I love turning random ideas into actual working prototypes—no matter how impossible they look at first 😄�
 
 </div>
 
