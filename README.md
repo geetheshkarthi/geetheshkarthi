@@ -63,11 +63,18 @@ I love converting ideas into working prototypes 😄
 
 <!-- Big profile summary card -->
 ## ⚡ Stats ⚡
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geetheshkarthi&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=geetheshkarthi&theme=dark&hide_border=false" height="180" />
+</p>
 
-<!-- Profile details -->![](https://github-readme-stats.vercel.app/api?username=geetheshkarthi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=geetheshkarthi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=geetheshkarthi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!-- Top languages on its own line -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetheshkarthi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geetheshkarthi&theme=tokyo-night&area=true&hide_border=true" />
+</p>
 
 ---
 
