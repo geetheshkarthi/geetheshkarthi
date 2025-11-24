@@ -1,7 +1,29 @@
 ## Hi there 👋
 
-# 💫 About Me:
-<br>🛰️ I’m currently working on:<br>    • AI-based robotics projects, computer vision pipelines, and ML model optimization.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on:<br>    • Deep learning, IoT + AI systems, ML research, and open-source tools.<br><br>🤝 I’m looking for help with:<br>    • Internship<br><br>🌱 I’m currently learning:<br>    • Robotics kinematics, reinforcement learning, DSA, and system design.<br><br>💭 Ask me about:<br>    • Machine Learning, Computer Vision, Robotics, Python, CNNs, WAN networking, and end-to-end project building.<br><br>⚡ Fun fact:<br>    • I love turning random ideas into actual working prototypes—no matter how impossible they look at first 😄
+## 💚 About Me :
+
+<div style="border: 2px solid #7dff9f; border-radius: 16px; padding: 20px;">
+
+🔭 **I’m currently working on**  
+AI-based robotics, computer vision, deep learning, and intelligent automation systems.
+
+🧑‍🤝‍🧑 **I’m looking to collaborate on**  
+AI + IoT projects, ML research, and open-source tools.
+
+🤝 **I’m looking for help with**  
+Optimizing neural network performance and GPU-efficient training.
+
+🌱 **I’m currently learning**  
+Robotics kinematics, reinforcement learning, DSA, and system design.
+
+💬 **Ask me about**  
+Machine Learning, Computer Vision, Python, Networking, and Robotics.
+
+⚡ **Fun fact**  
+I love converting ideas into working prototypes 😄
+
+</div>
+
 
 
 ## 🌐 Socials:
