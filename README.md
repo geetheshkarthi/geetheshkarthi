@@ -64,18 +64,13 @@ I love converting ideas into working prototypes 😄
 
 <!-- Big profile summary card -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geetheshkarthi&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=geetheshkarthi&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=geetheshkarthi&theme=dark&hide_border=false" height="180" />
 </p>
 
-<!-- Two cards in one line (like top row in your screenshot) -->
+<!-- Top languages on its own line -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geetheshkarthi&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geetheshkarthi&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-<!-- Most used languages block on its own line -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geetheshkarthi&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetheshkarthi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
 ---
