@@ -60,31 +60,13 @@ I love converting ideas into working prototypes 😄
 
 ---
 
-## ⚡ Stats ⚡
 
 <!-- Big profile summary card -->
 ## ⚡ Stats ⚡
 
-<!-- Profile details -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geetheshkarthi&theme=tokyonight" />
-</p>
-
-<!-- Contribution graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geetheshkarthi&theme=tokyo-night&area=true&hide_border=true" />
-</p>
-
-<!-- Two small stat cards in one row -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=geetheshkarthi&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geetheshkarthi&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-<!-- Most used languages -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geetheshkarthi&theme=tokyonight" />
-</p>
+<!-- Profile details -->![](https://github-readme-stats.vercel.app/api?username=geetheshkarthi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=geetheshkarthi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=geetheshkarthi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ---
